@@ -1,0 +1,5 @@
+aa&b;a^b;~a;A&&B; (A[i]||B[j]);!a; C/=A;C%=A;C&=2;C^=2;C|=4;
+hile(n!=m){c+=A;}; if(n<m)c=a+b;{if(n>m)n=m;} for(int i=1; i>=10;i++)C-=A; for(j=1000; j<=100; j--)c*=A;
+funtion1(String... filenames){Cl c = new c1; c.memberM; @; D1::memberM; } {(a>b) ? A:B;} 
+
+
