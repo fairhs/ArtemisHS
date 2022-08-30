@@ -1,5 +1,0 @@
-
-1.Chage filepaht (ex: bin\Debug\GPLexTutorial.exe) in M11J1.bat
-2.Update or create input file(ex: input.txt) for input string.
-3.Excute batch file(M11J.bat)
-4.See the result of return in the log(ex: TestM11J.log)
